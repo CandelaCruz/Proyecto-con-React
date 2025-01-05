@@ -98,19 +98,19 @@ nav {
     }
 
     .items a:hover{
-      width: 125px;;
+      width: 125px;
     }
   
     .items.open {
-      display: flex; /* Mostrar el menú cuando se abre */
+      display: flex; 
     }
   
     .hamburger-icon {
-      display: flex; /* Mostrar el icono de hamburguesa en pantallas pequeñas */
+      display: flex; 
     }
 
     .login{
-      display: none
+      display: none;
     }
 
     .login-hamburguer{

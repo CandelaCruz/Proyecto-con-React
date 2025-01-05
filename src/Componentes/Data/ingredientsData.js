@@ -40,6 +40,6 @@ export const ingredientsData = [
   { id: 25, name: 'Honey', category: 'Others', calories: 64, protein: 0.1, carbs: 17 },
   { id: 26, name: 'Soy Sauce', category: 'Others', calories: 8, protein: 0.8, carbs: 0.8 },
   { id: 27, name: 'Garlic', category: 'Others', calories: 4, protein: 0.2, carbs: 1 },
-  { id: 28, name: 'Lemon', category: 'Others', calories: 29, protein: 1.1, carbs: 9 }
+  { id: 28, name: 'Lemon', category: 'Others', calories: 29, protein: 1.1, carbs: 9 },
 
 ];
